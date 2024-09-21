@@ -51,7 +51,7 @@ section {
   z-index: 1;
 }
 #skills {
-  background-image: url(../imges/sea.jpg);
+  background-image: url(../sea.jpg);
   background-position: bottom;
   background-clip: content-box;
   background-size: inherit;
